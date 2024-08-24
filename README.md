@@ -1,4 +1,3 @@
-# Player Score Board App (React and Typescript)
 
 # Player Score Board App (React and Typescript)
 
